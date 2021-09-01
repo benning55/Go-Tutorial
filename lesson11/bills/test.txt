@@ -1,0 +1,4 @@
+Bill breakdown: 
+corn:                     ...$55 
+tip:                      ...$10.00
+total:                    ...$65.00
